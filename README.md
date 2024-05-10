@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
     <a href="https://cdn.discordapp.com/attachments/1238323498703913022/1238325101481689198/2024-05-10_04-55-44.mp4?ex=663edf9f&is=663d8e1f&hm=a4664a3edfe45bbdafd41a338bcd155ad167b45419548630453ea5691dde98b0" target="_blank">
-      <video src="https://cdn.discordapp.com/attachments/1238323498703913022/1238325101481689198/2024-05-10_04-55-44.mp4?ex=663edf9f&is=663d8e1f&hm=a4664a3edfe45bbdafd41a338bcd155ad167b45419548630453ea5691dde98b0" controls style="width: 110%; height: 110%;"></video>
+      CLick to see a demo video
     </a>
   </kbd>
   
